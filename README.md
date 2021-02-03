@@ -11,7 +11,7 @@
 - [x] [Week03-编程与算法训练](https://github.com/syt-honey/Excellent-work/issues/3)  
 - [x] [Week04-编程与算法训练](https://github.com/syt-honey/Excellent-work/issues/4)  
 - [x] [Week05-编程与算法训练](https://github.com/syt-honey/Excellent-work/issues/5)  
-- [x] [Week06-编程与算法训练](https://github.com/syt-honey/Excellent-work/issues/6)    
+- [x] [Week06 - 重学 `JavaScript`（一）](https://github.com/syt-honey/Excellent-work/issues/6)    
 
 ## 说明
 
