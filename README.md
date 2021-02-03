@@ -2,6 +2,16 @@
 
 该 [Github Repo](https://github.com/syt-honey/Excellent-work) 收集整理第一期到第八期前端训练营的优秀作业。每周一更。可以通过 [Issues](https://github.com/syt-honey/Excellent-work/issues) 列表来查看。也欢迎你提出宝贵的意见～
 
+## 更新
+
+当前已更新：
+
+[x]. Week01-编程与算法训练  
+[x]. Week02-编程与算法训练  
+[x]. Week03-编程与算法训练  
+[x]. Week04-编程与算法训练  
+[x]. Week05-编程与算法训练  
+[x]. Week06-编程与算法训练    
 
 ## 说明
 
