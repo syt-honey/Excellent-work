@@ -13,6 +13,7 @@
 - [x] [Week05-编程与算法训练](https://github.com/syt-honey/Excellent-work/issues/5)  
 - [x] [Week06 - 重学 `JavaScript`（一）](https://github.com/syt-honey/Excellent-work/issues/6)    
 - [x] [Week07 - 重学 `JavaScript`（二）](https://github.com/syt-honey/Excellent-work/issues/7)    
+- [x] [Week08 - 浏览器工作原理](https://github.com/syt-honey/Excellent-work/issues/8)       
 
 ## 说明
 
