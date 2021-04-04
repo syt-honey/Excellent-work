@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bddc64-bf5d-4a6b-9b5d-6a6bdbc1abce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nxVFnughRlsRUrXRn54x9vyTQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bddc64-bf5d-4a6b-9b5d-6a6bdbc1abce" name="Default Changelist" comment="" />
+      <created>1612331627317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612331627317</updated>
+      <workItem from="1612331628391" duration="6316000" />
+      <workItem from="1612924810559" duration="2751000" />
+      <workItem from="1612968690652" duration="911000" />
+      <workItem from="1614436326430" duration="1228000" />
+      <workItem from="1615093893883" duration="1356000" />
+      <workItem from="1615728038048" duration="392000" />
+      <workItem from="1616333692192" duration="698000" />
+      <workItem from="1616945015133" duration="443000" />
+    </task>
+    <task id="LOCAL-00001" summary="doc: update README file">
+      <created>1612333335462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612333335462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="doc: add Week01 ~ Week06 works">
+      <created>1612345332235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612345332235</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: Update the added courses">
+      <created>1612345559930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612345559930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: Update links">
+      <created>1612345719558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612345719558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: Update the name of Week06">
+      <created>1612345920952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612345920952</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add directory comparison table">
+      <created>1612346203757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612346203757</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: update excellent work set of week07">
+      <created>1613227995458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613227995458</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update excellent work set of week08">
+      <created>1614438940959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614438940959</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: update excellent work set of week09">
+      <created>1615095526030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615095526030</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: update excellent work set of week10">
+      <created>1615728206069</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615728206069</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: update excellent work set of week11">
+      <created>1616335551300</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616335551300</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: update excellent work set of week12">
+      <created>1616945301381</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616945301381</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="doc: update README file" />
+    <MESSAGE value="doc: add Week01 ~ Week06 works" />
+    <MESSAGE value="fix: Update the added courses" />
+    <MESSAGE value="fix: Update links" />
+    <MESSAGE value="fix: Update the name of Week06" />
+    <MESSAGE value="feat: add directory comparison table" />
+    <MESSAGE value="feat: update excellent work set of week07" />
+    <MESSAGE value="feat: update excellent work set of week08" />
+    <MESSAGE value="feat: update excellent work set of week09" />
+    <MESSAGE value="feat: update excellent work set of week10" />
+    <MESSAGE value="feat: update excellent work set of week11" />
+    <MESSAGE value="feat: update excellent work set of week12" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update excellent work set of week12" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="33" width="828" height="798" key="CommitChangelistDialog2" timestamp="1616945301289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="33" width="828" height="798" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1616945301289" />
+    <state x="306" y="23" width="828" height="798" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1616335551200" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1616945302693">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1616945302693" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1616335552969" />
+  </component>
+</project>
