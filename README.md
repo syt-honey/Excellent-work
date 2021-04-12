@@ -19,6 +19,7 @@
 - [x] [Week11 - 重学CSS（一）](https://github.com/syt-honey/Excellent-work/issues/11)  
 - [x] [Week12 - 重学CSS（二）](https://github.com/syt-honey/Excellent-work/issues/12)  
 - [x] [Week13 - 重学HTML、浏览器 API](https://github.com/syt-honey/Excellent-work/issues/13)  
+- [x] [Week14 - 组件化（一）](https://github.com/syt-honey/Excellent-work/issues/14)  
 
 ## 说明
 
