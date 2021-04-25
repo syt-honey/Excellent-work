@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1bddc64-bf5d-4a6b-9b5d-6a6bdbc1abce" name="Default Changelist" comment="" />
+    <list default="true" id="e1bddc64-bf5d-4a6b-9b5d-6a6bdbc1abce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.md" beforeDir="false" afterPath="$PROJECT_DIR$/map.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,8 @@
       <workItem from="1615728038048" duration="392000" />
       <workItem from="1616333692192" duration="698000" />
       <workItem from="1616945015133" duration="443000" />
+      <workItem from="1618753743377" duration="595000" />
+      <workItem from="1619355617937" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="doc: update README file">
       <created>1612333335462</created>
@@ -127,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616945301381</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: update excellent work set of week15">
+      <created>1618753924076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618753924076</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,18 +159,21 @@
     <MESSAGE value="feat: update excellent work set of week10" />
     <MESSAGE value="feat: update excellent work set of week11" />
     <MESSAGE value="feat: update excellent work set of week12" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update excellent work set of week12" />
+    <MESSAGE value="feat: update excellent work set of week15" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update excellent work set of week15" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="33" width="828" height="798" key="CommitChangelistDialog2" timestamp="1616945301289">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="308" y="54" width="828" height="798" key="CommitChangelistDialog2" timestamp="1618753923890">
+      <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="308" y="33" width="828" height="798" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1616945301289" />
     <state x="306" y="23" width="828" height="798" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1616335551200" />
-    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1616945302693">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="308" y="54" key="CommitChangelistDialog2/0.25.1440.791@0.25.1440.791" timestamp="1618753923890" />
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2" timestamp="1618753925619">
+      <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1616945302693" />
     <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1616335552969" />
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1618753925619" />
   </component>
 </project>
