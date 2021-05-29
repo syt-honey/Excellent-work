@@ -24,7 +24,10 @@
 - [x] [Week16 - 组件化（三）](https://github.com/syt-honey/Excellent-work/issues/16)  
 - [x] [Week17 - 工具链（一）](https://github.com/syt-honey/Excellent-work/issues/17)  
 - [x] [Week18 - 工具链（二）](https://github.com/syt-honey/Excellent-work/issues/18)  
+- [x] [Week19 - 发布系统（一）](https://github.com/syt-honey/Excellent-work/issues/19)  
+- [x] [Week20 - 发布系统（二）](https://github.com/syt-honey/Excellent-work/issues/20)  
 
+完结，撒花 🎉🎉🎉。
 ## 说明
 
 [Issues](https://github.com/syt-honey/Excellent-work/issues) 中的周作业顺序以第八期为准。也就是：
